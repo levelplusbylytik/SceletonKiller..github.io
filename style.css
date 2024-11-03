@@ -10,12 +10,17 @@ body {
 
 }
 
+
 .board {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     
+}
+.scelet {
+    width: 300px;
+    height: 600px;
 }
 
 .health-block {
